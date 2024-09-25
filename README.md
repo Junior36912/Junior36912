@@ -1,48 +1,73 @@
 # Olá, eu sou José Jackson Lima de Souza Júnior 👋
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** no IFPI - Campus Pedro II.  
-💻 **Desenvolvedor apaixonado por tecnologia**, com foco em Python, desenvolvimento web e bancos de dados.  
-🎮 Criador de jogos como "Desafio das Cachoeiras - Pedro II", exibido no evento Opala Tech, e com interesse em **design de jogos interativos**.  
-📚 Sempre buscando aprender mais e melhorar minhas habilidades em **desenvolvimento de software** e **engenharia de software**.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** no IFPI - Campus Pedro II, nordestino e com 19 anos (nascido em 2005).  
+💻 Apaixonado por **desenvolvimento back-end**, mas sempre explorando **front-end** e **DevOps** para expandir meu conhecimento e habilidades.  
+🎮 Criador de projetos interativos como o jogo **"Desafio das Cachoeiras"**, além de diversos projetos acadêmicos e pessoais envolvendo **JavaScript**, **Python**, **Banco de Dados** e **redes de computadores**.
 
 ---
 
 ### 🔧 Habilidades Técnicas:
-- **Linguagens:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Flask, Construct 3
-- **Banco de Dados:** MySQL, SQL
-- **Ferramentas de Controle de Versão:** Git, GitHub
-- **Outros:** Flask para desenvolvimento de microsserviços, machine learning com pré-processamento de dados e classificação de algoritmos
+- **Linguagens:** Python, JavaScript, Java, HTML, CSS
+- **Frameworks:** Flask, Spring Boot, Construct 3
+- **Banco de Dados:** MySQL, SQLite
+- **Ferramentas:** Git, GitHub, Linux, Excel
+- **Áreas de Interesse:** Back-end, microsserviços, DevOps, front-end e desenvolvimento de jogos
 
 ---
 
 ### 🚀 Projetos em Destaque:
-1. **[Desafio das Cachoeiras - Pedro II](#)**: Um jogo interativo desenvolvido em Construct 3, destacando as cachoeiras da minha cidade natal. Apresentado no Opala Tech.
-2. **[Arquitetura de Microsserviços com Flask](#)**: Projeto acadêmico focado em microsserviços utilizando Flask, com três serviços principais (Usuários, Produtos e Pedidos) comunicando-se entre si.
-3. **[Análise do Dataset Credit Approval](#)**: Trabalho de classificação e pré-processamento de dados para a disciplina de Banco de Dados II, utilizando dados do UCI Machine Learning Repository.
-4. **[Minicurso de Python](#)**: Organização e desenvolvimento de minicursos de introdução à programação em Python e outros temas como segurança na internet.
+1. **[Desafio das Cachoeiras](https://github.com/Junior36912/Desafio_Das_Cachoeiras)**: Um jogo 2D desenvolvido com a plataforma Construct 3 para promover as cachoeiras da cidade de Pedro II.
+2. **[Banco de Dados II - MySQL](https://github.com/Junior36912/Banco-de-Dados-II---MySQL)**: Projeto acadêmico focado em consultas SQL e manipulação de dados.
+3. **[Topologia de Redes de Computadores](https://github.com/Junior36912/Topologia-Redes-de-Computadores)**: Configuração e análise de cinco tipos de topologias de redes com diagramas e arquivos de simulação .pkt.
+4. **[Web com Spring Boot](https://github.com/Junior36912/Web-w-SpringBoot)**: Sistema de controle de usuários e departamentos com Spring Boot.
+5. **[Tech Quiz](https://github.com/Junior36912/Tech_Quiz)**: Jogo colaborativo desenvolvido no IFPI Pedro II, unindo diversão e aprendizado em inglês, matemática e português.
 
 ---
 
-### 📚 Certificações:
-- **Git e GitHub: compartilhando e colaborando em projetos** (Alura) – Concluído com 64 atividades.
+### 🎓 Certificações:
+**Cursos pela Alura:**
+- **Programação (138h)**:
+  - Certificação Java SE 7 Programmer I - Tipos de Dados, Operadores (16h)
+  - Unity 2D parte 1: Criando um jogo 2D (8h)
+  - Lógica de Programação com JavaScript (10h)
+  - Arquitetura de Computadores (8h)
+  - Git e GitHub: Colaborando em projetos (8h)
+  - JavaScript: Arrays e Objetos (16h)
+  - Java: Criando a sua primeira aplicação (8h)
+
+- **DevOps (4h)**:
+  - Linux I: Conhecendo e utilizando o terminal (4h)
+
+- **Data Science (42h)**:
+  - SQL com MySQL: Manipulação e consultas avançadas (26h)
+  - Excel: Domine o editor de planilhas (8h)
+  - MySQL: Introdução à ferramenta (8h)
 
 ---
 
 ### 🌱 O que estou aprendendo atualmente:
-- Arquiteturas modernas como microsserviços, serverless e APIs.
-- Aprofundando meus conhecimentos em **Redes de Computadores** e **Engenharia de Software**.
+- Aprofundando em **arquiteturas modernas** como microsserviços, APIs e serverless.
+- Desenvolvimento de **jogos 2D** e **DevOps** com foco em automação e gerenciamento de sistemas.
+
+---
+
+### 🏫 Projetos Filantrópicos:
+- Diretor e organizador de minicursos gratuitos aos sábados:
+  - **Segurança na Internet**
+  - **Planilhas Eletrônicas**
+  - **Programação Básica com Python** (ministrado por mim)
+- Ofereci duas vezes o curso de **Construct3** em escolas de Milton Brandão e Pedro II.
 
 ---
 
 ### 🔗 Onde me encontrar:
-- **LinkedIn:** [linkedin.com/in/josejackson](#)
-- **GitHub:** github.com/josejackson
+- **LinkedIn:** [linkedin.com/in/júnior-jackson](https://www.linkedin.com/in/j%C3%BAnior-jackson/)
+- **GitHub:** [github.com/Junior36912](https://github.com/Junior36912)
+- **Lattes:** [lattes.cnpq.br/8183894741597039](http://lattes.cnpq.br/8183894741597039)
+- **E-mail:** juniojackson369@gmail.com
 
 ---
 
 Sinta-se à vontade para explorar meus repositórios e projetos!
 
 ---
-
-Esse README destaca suas conquistas, projetos e habilidades, dando uma visão clara do seu perfil para quem visitar o seu GitHub. Você pode personalizar conforme necessário!
